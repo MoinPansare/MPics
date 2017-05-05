@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MPics_Example' do
+  pod 'MPics', :path => '../'
+
+  target 'MPics_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
