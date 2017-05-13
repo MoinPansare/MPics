@@ -1,3 +1,6 @@
+DO-not use this pod as of yet this is still under development
+
+
 # MPics
 
 [![CI Status](http://img.shields.io/travis/Moin Pansare/MPics.svg?style=flat)](https://travis-ci.org/Moin Pansare/MPics)
