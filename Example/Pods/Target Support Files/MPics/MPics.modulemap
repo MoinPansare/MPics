@@ -1,0 +1,6 @@
+framework module MPics {
+  umbrella header "MPics-umbrella.h"
+
+  export *
+  module * { export * }
+}

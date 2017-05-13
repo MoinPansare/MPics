@@ -1,0 +1,16 @@
+PODS:
+  - MPics (0.1.0)
+
+DEPENDENCIES:
+  - MPics (from `../`)
+
+EXTERNAL SOURCES:
+  MPics:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MPics: 0e9ba821e89d3d6b6a8da8d9ba48521f8a916ce4
+
+PODFILE CHECKSUM: 38dfcbc86ab71894e07d9e2969d95e181e0c90ab
+
+COCOAPODS: 1.2.1
